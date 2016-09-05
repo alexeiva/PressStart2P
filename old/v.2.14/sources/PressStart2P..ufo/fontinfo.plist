@@ -1,5 +1,31 @@
-Copyright (c) 2011, Cody "CodeMan38" Boisclair (cody@zone38.net),
-with Reserved Font Name "Press Start".
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>1024</integer>
+	<key>capHeight</key>
+	<real>1024.0</real>
+	<key>copyright</key>
+	<string>(c) 2011 Cody "CodeMan38" Boisclair. Released under the SIL Open Font License.</string>
+	<key>descender</key>
+	<integer>0</integer>
+	<key>familyName</key>
+	<string>Press Start 2P</string>
+	<key>guidelines</key>
+	<array>
+	</array>
+	<key>italicAngle</key>
+	<real>0.0</real>
+	<key>openTypeHheaAscender</key>
+	<integer>1024</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>0</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
+	<key>openTypeNameLicense</key>
+	<string>Copyright (c) 2011, Cody "CodeMan38" Boisclair (cody@zone38.net),
+with Reserved Font Name Press Start.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
@@ -45,7 +71,7 @@ new environment.
 "Author" refers to any designer, engineer, programmer, technical
 writer or other person who contributed to the Font Software.
 
-PERMISSION & CONDITIONS
+PERMISSION &amp; CONDITIONS
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of the Font Software, to use, study, copy, merge, embed, modify,
 redistribute, and sell modified and unmodified copies of the Font
@@ -91,4 +117,116 @@ COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
 DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
-OTHER DEALINGS IN THE FONT SOFTWARE.
+OTHER DEALINGS IN THE FONT SOFTWARE.</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameUniqueID</key>
+	<string>FontForge 2.0 : Press Start 2P : 12-6-2011</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 2.14 </string>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Panose</key>
+	<array>
+		<integer>2</integer>
+		<integer>0</integer>
+		<integer>5</integer>
+		<integer>3</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Selection</key>
+	<array>
+		<integer>7</integer>
+	</array>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>265</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>51</integer>
+	<key>openTypeOS2SubscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SubscriptXSize</key>
+	<integer>665</integer>
+	<key>openTypeOS2SubscriptYOffset</key>
+	<integer>143</integer>
+	<key>openTypeOS2SubscriptYSize</key>
+	<integer>716</integer>
+	<key>openTypeOS2SuperscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SuperscriptXSize</key>
+	<integer>665</integer>
+	<key>openTypeOS2SuperscriptYOffset</key>
+	<integer>491</integer>
+	<key>openTypeOS2SuperscriptYSize</key>
+	<integer>716</integer>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>3</integer>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>1024</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>0</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>PfEd</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>500</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>1024</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>0</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptFontName</key>
+	<string>PressStart2P</string>
+	<key>postscriptFullName</key>
+	<string>Press Start 2P</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptSlantAngle</key>
+	<real>0.0</real>
+	<key>postscriptStemSnapH</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<real>2.0</real>
+	<key>postscriptUnderlineThickness</key>
+	<real>51.0</real>
+	<key>postscriptUniqueID</key>
+	<integer>0</integer>
+	<key>postscriptWeightName</key>
+	<string>Medium</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1024</integer>
+	<key>versionMajor</key>
+	<integer>2</integer>
+	<key>versionMinor</key>
+	<integer>14</integer>
+	<key>xHeight</key>
+	<real>768.0</real>
+</dict>
+</plist>

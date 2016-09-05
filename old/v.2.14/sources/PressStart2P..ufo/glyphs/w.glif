@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w" format="2">
+  <advance width="1024"/>
+  <unicode hex="0077"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="512.0" type="line"/>
+      <point x="0.0" y="768.0" type="line"/>
+      <point x="64.0" y="768.0" type="line"/>
+      <point x="128.0" y="768.0" type="line"/>
+      <point x="128.0" y="512.0" type="line"/>
+      <point x="128.0" y="256.0" type="line"/>
+      <point x="192.0" y="256.0" type="line"/>
+      <point x="256.0" y="256.0" type="line"/>
+      <point x="256.0" y="512.0" type="line"/>
+      <point x="256.0" y="768.0" type="line"/>
+      <point x="384.0" y="768.0" type="line"/>
+      <point x="512.0" y="768.0" type="line"/>
+      <point x="512.0" y="512.0" type="line"/>
+      <point x="512.0" y="256.0" type="line"/>
+      <point x="576.0" y="256.0" type="line"/>
+      <point x="640.0" y="256.0" type="line"/>
+      <point x="640.0" y="512.0" type="line"/>
+      <point x="640.0" y="768.0" type="line"/>
+      <point x="768.0" y="768.0" type="line"/>
+      <point x="896.0" y="768.0" type="line"/>
+      <point x="896.0" y="448.0" type="line"/>
+      <point x="896.0" y="128.0" type="line"/>
+      <point x="512.0" y="128.0" type="line"/>
+      <point x="128.0" y="128.0" type="line"/>
+      <point x="128.0" y="192.0" type="line"/>
+      <point x="128.0" y="256.0" type="line"/>
+      <point x="64.0" y="256.0" type="line"/>
+      <point x="0.0" y="256.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

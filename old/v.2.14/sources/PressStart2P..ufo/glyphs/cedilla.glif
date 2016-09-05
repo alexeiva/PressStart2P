@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="2">
+  <advance width="1024"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="512.0" y="192.0" type="line"/>
+      <point x="512.0" y="256.0" type="line"/>
+      <point x="576.0" y="256.0" type="line"/>
+      <point x="640.0" y="256.0" type="line"/>
+      <point x="640.0" y="192.0" type="line"/>
+      <point x="640.0" y="128.0" type="line"/>
+      <point x="576.0" y="128.0" type="line"/>
+      <point x="512.0" y="128.0" type="line"/>
+      <point x="512.0" y="64.0" type="line"/>
+      <point x="512.0" y="0.0" type="line"/>
+      <point x="384.0" y="0.0" type="line"/>
+      <point x="256.0" y="0.0" type="line"/>
+      <point x="256.0" y="64.0" type="line"/>
+      <point x="256.0" y="128.0" type="line"/>
+      <point x="384.0" y="128.0" type="line"/>
+      <point x="512.0" y="128.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

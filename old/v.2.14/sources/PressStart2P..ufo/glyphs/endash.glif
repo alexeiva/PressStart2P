@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endash" format="2">
+  <advance width="1024"/>
+  <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="576.0" type="line"/>
+      <point x="0.0" y="640.0" type="line"/>
+      <point x="448.0" y="640.0" type="line"/>
+      <point x="896.0" y="640.0" type="line"/>
+      <point x="896.0" y="576.0" type="line"/>
+      <point x="896.0" y="512.0" type="line"/>
+      <point x="448.0" y="512.0" type="line"/>
+      <point x="0.0" y="512.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>
