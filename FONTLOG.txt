@@ -82,3 +82,8 @@ N: "QTQ"
 E: [unknown]
 W: http://www22.atpages.jp/nbgifan/namco.html
 D: Original extraction of glyph bitmaps
+
+N: Cyreal
+E: contact@cyreal.org
+W: http://cyreal.org
+D: Expansion to GF Cyrillic Plus
