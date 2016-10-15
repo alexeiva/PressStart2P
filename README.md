@@ -18,7 +18,7 @@ use, including Greek and Cyrillic.
 * Ported source files to .glyphs format
 * Expanded glyph set to GF Cyrillic plus
 * Added glyphs foursuperiod, divisionslash
-* Improved existing Cyrillic, and Latin(partially)
+* Improved shape and contrast in existing Cyrillic, and Latin(partially)
 * Fixed vertical metrics
 
 ### Copyright
