@@ -10,3 +10,23 @@ letters in its screen font.
 Unlike the original font from the "Return of Ishtar" ROM, Press Start 2P
 includes a wide variety of non-ASCII Unicode characters for pan-European
 use, including Greek and Cyrillic.
+
+### Version 3.000 update
+
+5 September 2016 by Cyreal
+
+* Ported source files to .glyphs format
+* Expanded glyph set to GF Cyrillic plus
+* Added glyphs foursuperiod, divisionslash
+* Improved existing Cyrillic, and Latin(partially)
+* Fixed vertical metrics
+
+### Copyright
+
+Copyright (c) 2012, Cody "CodeMan38" Boisclair (cody@zone38.net), with Reserved Font Name "Press Start 2P"
+
+### License
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
