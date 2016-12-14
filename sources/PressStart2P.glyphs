@@ -1,6 +1,6 @@
 {
-.appVersion = "926";
-copyright = "Copyright (c) 2012, Cody \"CodeMan38\" Boisclair (cody@zone38.net), with Reserved Font Name \"Press Start 2P\"";
+.appVersion = "948";
+copyright = "Copyright 2012 The Press Start 2P Project Authors (cody@zone38.net), with Reserved Font Name \"Press Start 2P\".";
 customParameters = (
 {
 name = vendorID;
@@ -33,7 +33,7 @@ value = 1;
 }
 );
 date = "2016-10-14 23:55:34 +0000";
-designer = "Cody CodeMan38 (Cyrillic: Cyreal)";
+designer = CodeMan38;
 designerURL = "http://www.zone38.net/";
 disablesAutomaticAlignment = 1;
 familyName = "Press Start 2P";
